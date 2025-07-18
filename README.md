@@ -2,13 +2,14 @@
 🎓 CS Student | 🖥️ Backend Developer (Django)
 🌱 Learning: Django REST, JWT, WebSockets, Postgres
 
-## 🔧 Tech Stack
+<p align="center"> ## 🔧 Tech Stack </p>
 - ⚙️ Languages: Python, JavaScript, C
 - 💻 Backend: Django, Node.js
 - 🧠 DB: PostgreSQL, SQLite
 - ☁️ Tools: Git, Docker, AWS
 
-## 📫 Connect with Me
+<p align="center"> ## 📫 Connect with Me </p>
+
 - ✉️ Email: dpokhrel420@gmail.com
 - 🔗 [LinkedIn](www.linkedin.com/in/darshan-pokhrel-9073a4292)
 
