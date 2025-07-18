@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Darshan Pokhrel
+🎓 CS Student | 🖥️ Backend Developer (Django)
+🌱 Learning: Django REST, JWT, WebSockets, Postgres
 
-<!--
-**darshancoded/darshancoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+- ⚙️ Languages: Python, JavaScript, C
+- 💻 Backend: Django, Node.js
+- 🧠 DB: PostgreSQL, SQLite
+- ☁️ Tools: Git, Docker, AWS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- ✉️ Email: dpokhrel420@gmail.com
+- 🔗 [LinkedIn](www.linkedin.com/in/darshan-pokhrel-9073a4292)
