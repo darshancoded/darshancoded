@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Darshan Pokhrel
-🎓 CS Student | 🖥️ Backend Developer (Django)
-🌱 Learning: Django REST, JWT, WebSockets, Postgres
+I'm a passionate backend developer and Computer Science student with a strong interest in building scalable APIs and smart IoT solutions. I enjoy working with technologies like Django, PostgreSQL, and JWT Authentication, and I'm currently exploring cloud integration and real-time systems.
+🔧 Currently working as an IT Intern
+
+💻 Projects: Expense Tracker API, Smart Pet Feeder (Feed Mate)
+
+🌱 Learning: Django Rest Framework, Git, and CI/CD
+
+📍 Based in Nepal
 
  ## 🔧 Tech Stack
 - ⚙️ Languages: Python, JavaScript, C
