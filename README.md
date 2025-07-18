@@ -11,3 +11,8 @@
 ## 📫 Connect with Me
 - ✉️ Email: dpokhrel420@gmail.com
 - 🔗 [LinkedIn](www.linkedin.com/in/darshan-pokhrel-9073a4292)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Django](https://img.shields.io/badge/Django-4.2-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
